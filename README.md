@@ -27,8 +27,9 @@ End the Program.
 
 ## Program:
 
-DEVELOPED BY : Anusha R
-REG NO :212221230006
+Developed by : Anusha R
+
+Register number :212221230006
 
 ``` Python
 
